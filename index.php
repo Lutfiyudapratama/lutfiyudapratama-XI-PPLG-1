@@ -1,4 +1,4 @@
-<?php include("componen/header.php"); ?>
+<?php include("component/header.php"); ?>
 <?php
 $dataSiswa = [
     [
@@ -63,4 +63,4 @@ $dataSiswa = [
 </div>
 
 <!-- footer start -->
-<?php include("componen/footer.php"); ?>
+<?php include("component/footer.php"); ?>
